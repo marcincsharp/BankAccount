@@ -1,2 +1,2 @@
 # BankAccount
-Testuje jak robic branche, commitowac  i  robilc  pull request.
+Testuje jak robic branche, commitowac  i  robic  pull request.
