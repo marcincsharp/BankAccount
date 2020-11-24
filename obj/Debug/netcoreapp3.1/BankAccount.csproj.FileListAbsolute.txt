@@ -1,0 +1,13 @@
+C:\Users\marci\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\marci\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\marci\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\marci\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\marci\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\marci\source\repos\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\marci\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\marci\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\marci\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\marci\source\repos\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
